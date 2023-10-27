@@ -1,0 +1,8 @@
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\bin\Debug\lab2patterns.exe.config
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\bin\Debug\lab2patterns.exe
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\bin\Debug\lab2patterns.pdb
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\obj\Debug\lab2patterns.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\obj\Debug\lab2patterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\obj\Debug\lab2patterns.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\obj\Debug\lab2patterns.exe
+C:\Users\Max\Desktop\lab2patterns\lab2patterns\obj\Debug\lab2patterns.pdb
